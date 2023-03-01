@@ -14,9 +14,9 @@
 		"dialect": "mysql"
 	},
 	"production": {
-		"username": "beffd2cde933cf",
-		"password": "b45b39be",
-		"database": "heroku_59fc40912a6ab73",
+		"username": "b22e8eef5f57f0",
+		"password": "88267f01",
+		"database": "heroku_bb9600921e151c8",
 		"host": "us-cdbr-east-06.cleardb.net",
 		"dialect": "mysql"
 	}
